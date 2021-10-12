@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Copper Harbor';
+    src: url('fonts/Copper-Harbor.eot');
+    src: url('fonts/Copper-Harbor.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Copper-Harbor.woff2') format('woff2'),
+         url('fonts/Copper-Harbor.woff') format('woff'),
+         url('fonts/Copper-Harbor.ttf')  format('truetype'),
+         url('fonts/Copper-Harbor.svg#Copper Harbor') format('svg');
+}
